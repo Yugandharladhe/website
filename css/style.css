@@ -1,0 +1,15 @@
+body{
+    background-color:blueviolet
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.pcontainer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.mcontainer{
+    /* display: flex; */
+    justify-content:start;
+}
